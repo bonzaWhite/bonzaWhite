@@ -2,7 +2,7 @@
 
 ### Aspiring Java Full Stack Developer
 
-🎓 Final-year B.Tech Computer Science & Engineering student passionate about building practical software applications.
+🎓 recently graduated B.Tech Computer Science & Engineering student passionate about building practical software applications.
 
 💻 Currently strengthening my Advanced Java, SQL, and web development skills while exploring backend development with Spring Boot.
 
